@@ -1,71 +1,71 @@
 @font-face {
     font-family: 'PlayfairDisplayBold';
-    src: url('fonts/PlayfairDisplayBold.eot');
-    src: url('fonts/PlayfairDisplayBold.eot') format('embedded-opentype'),
-         url('fonts/PlayfairDisplayBold.woff2') format('woff2'),
-         url('fonts/PlayfairDisplayBold.woff') format('woff'),
-         url('fonts/PlayfairDisplayBold.ttf') format('truetype'),
-         url('fonts/PlayfairDisplayBold.svg#PlayfairDisplayBold') format('svg');
+    src: url('../fonts/PlayfairDisplayBold.eot');
+    src: url('../fonts/PlayfairDisplayBold.eot') format('embedded-opentype'),
+         url('../fonts/PlayfairDisplayBold.woff2') format('woff2'),
+         url('../fonts/PlayfairDisplayBold.woff') format('woff'),
+         url('../fonts/PlayfairDisplayBold.ttf') format('truetype'),
+         url('../fonts/PlayfairDisplayBold.svg#PlayfairDisplayBold') format('svg');
 }
 
 @font-face {
     font-family: 'GothaProReg';
-    src: url('fonts/GothaProReg.eot');
-    src: url('fonts/GothaProReg.eot') format('embedded-opentype'),
-         url('fonts/GothaProReg.woff2') format('woff2'),
-         url('fonts/GothaProReg.woff') format('woff'),
-         url('fonts/GothaProReg.ttf') format('truetype'),
-         url('fonts/GothaProReg.svg#GothaProReg') format('svg');
+    src: url('../fonts/GothaProReg.eot');
+    src: url('../fonts/GothaProReg.eot') format('embedded-opentype'),
+         url('../fonts/GothaProReg.woff2') format('woff2'),
+         url('../fonts/GothaProReg.woff') format('woff'),
+         url('../fonts/GothaProReg.ttf') format('truetype'),
+         url('../fonts/GothaProReg.svg#GothaProReg') format('svg');
 }
 
 @font-face {
     font-family: 'GothaProLig';
-    src: url('fonts/GothaProLig.eot');
-    src: url('fonts/GothaProLig.eot') format('embedded-opentype'),
-         url('fonts/GothaProLig.woff2') format('woff2'),
-         url('fonts/GothaProLig.woff') format('woff'),
-         url('fonts/GothaProLig.ttf') format('truetype'),
-         url('fonts/GothaProLig.svg#GothaProLig') format('svg');
+    src: url('../fonts/GothaProLig.eot');
+    src: url('../fonts/GothaProLig.eot') format('embedded-opentype'),
+         url('../fonts/GothaProLig.woff2') format('woff2'),
+         url('../fonts/GothaProLig.woff') format('woff'),
+         url('../fonts/GothaProLig.ttf') format('truetype'),
+         url('../fonts/GothaProLig.svg#GothaProLig') format('svg');
 }
 
 @font-face {
     font-family: 'PlayfairDisplayRegular';
-    src: url('fonts/PlayfairDisplayRegular.eot');
-    src: url('fonts/PlayfairDisplayRegular.eot') format('embedded-opentype'),
-         url('fonts/PlayfairDisplayRegular.woff2') format('woff2'),
-         url('fonts/PlayfairDisplayRegular.woff') format('woff'),
-         url('fonts/PlayfairDisplayRegular.ttf') format('truetype'),
-         url('fonts/PlayfairDisplayRegular.svg#PlayfairDisplayRegular') format('svg');
+    src: url('../fonts/PlayfairDisplayRegular.eot');
+    src: url('../fonts/PlayfairDisplayRegular.eot') format('embedded-opentype'),
+         url('../fonts/PlayfairDisplayRegular.woff2') format('woff2'),
+         url('../fonts/PlayfairDisplayRegular.woff') format('woff'),
+         url('../fonts/PlayfairDisplayRegular.ttf') format('truetype'),
+         url('../fonts/PlayfairDisplayRegular.svg#PlayfairDisplayRegular') format('svg');
 }
 
 @font-face {
     font-family: 'PlayfairDisplayItalic';
-    src: url('fonts/PlayfairDisplayItalic.eot');
-    src: url('fonts/PlayfairDisplayItalic.eot') format('embedded-opentype'),
-         url('fonts/PlayfairDisplayItalic.woff2') format('woff2'),
-         url('fonts/PlayfairDisplayItalic.woff') format('woff'),
-         url('fonts/PlayfairDisplayItalic.ttf') format('truetype'),
-         url('fonts/PlayfairDisplayItalic.svg#PlayfairDisplayItalic') format('svg');
+    src: url('../fonts/PlayfairDisplayItalic.eot');
+    src: url('../fonts/PlayfairDisplayItalic.eot') format('embedded-opentype'),
+         url('../fonts/PlayfairDisplayItalic.woff2') format('woff2'),
+         url('../fonts/PlayfairDisplayItalic.woff') format('woff'),
+         url('../fonts/PlayfairDisplayItalic.ttf') format('truetype'),
+         url('../fonts/PlayfairDisplayItalic.svg#PlayfairDisplayItalic') format('svg');
 }
 
 @font-face {
     font-family: 'GothaProMed';
-    src: url('fonts/GothaProMed.eot');
-    src: url('fonts/GothaProMed.eot') format('embedded-opentype'),
-         url('fonts/GothaProMed.woff2') format('woff2'),
-         url('fonts/GothaProMed.woff') format('woff'),
-         url('fonts/GothaProMed.ttf') format('truetype'),
-         url('fonts/GothaProMed.svg#GothaProMed') format('svg');
+    src: url('../fonts/GothaProMed.eot');
+    src: url('../fonts/GothaProMed.eot') format('embedded-opentype'),
+         url('../fonts/GothaProMed.woff2') format('woff2'),
+         url('../fonts/GothaProMed.woff') format('woff'),
+         url('../fonts/GothaProMed.ttf') format('truetype'),
+         url('../fonts/GothaProMed.svg#GothaProMed') format('svg');
 }
 
 @font-face {
     font-family: 'PlayfairDisplayBoldItalic';
-    src: url('fonts/PlayfairDisplayBoldItalic.eot');
-    src: url('fonts/PlayfairDisplayBoldItalic.eot') format('embedded-opentype'),
-         url('fonts/PlayfairDisplayBoldItalic.woff2') format('woff2'),
-         url('fonts/PlayfairDisplayBoldItalic.woff') format('woff'),
-         url('fonts/PlayfairDisplayBoldItalic.ttf') format('truetype'),
-         url('fonts/PlayfairDisplayBoldItalic.svg#PlayfairDisplayBoldItalic') format('svg');
+    src: url('../fonts/PlayfairDisplayBoldItalic.eot');
+    src: url('../fonts/PlayfairDisplayBoldItalic.eot') format('embedded-opentype'),
+         url('../fonts/PlayfairDisplayBoldItalic.woff2') format('woff2'),
+         url('../fonts/PlayfairDisplayBoldItalic.woff') format('woff'),
+         url('../fonts/PlayfairDisplayBoldItalic.ttf') format('truetype'),
+         url('../fonts/PlayfairDisplayBoldItalic.svg#PlayfairDisplayBoldItalic') format('svg');
 }
 
 
@@ -78,7 +78,7 @@ body {
   height: 100%;
   width: 100%;
   overflow-x: hidden;
-  background: black url(img/BG.jpg) no-repeat scroll top center;
+  background: black url(../images/BG.jpg) no-repeat scroll top center;
   background-attachment: fixed;
 }
 
@@ -510,6 +510,14 @@ a.email::before, .dwnld::before {
 
 .bioyears img {
   width: 100%;
+}
+
+.bio__image {
+  float: right;
+}
+
+.bio__title {
+  margin-top: 200px;
 }
 
 .content.vision {
